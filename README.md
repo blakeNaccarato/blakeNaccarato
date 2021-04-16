@@ -1,1 +1,1 @@
-### Hi there 👋
+I'm a research assistant studying boiling and condensation phenomena in the Active Materials and Smart Living laboratory at UNLV. In addition to research-based projects, my GitHub also features my hobby pursuits. I am interested in hardware projects, home automation, and teaching Python.
