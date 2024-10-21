@@ -1,1 +1,1 @@
-In addition to research-based projects, my GitHub also features my hobby pursuits. I am interested in hardware, home automation, and teaching Python.
+In addition to the software I developed during my PhD in [the Softboiler GitHub org](https://github.com/softboiler), my GitHub also features my hobby pursuits. I am interested in hardware, home automation, and teaching Python.
